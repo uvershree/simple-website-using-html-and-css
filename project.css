@@ -1,0 +1,54 @@
+h1{
+     background-color: black;
+     color: aliceblue;
+     margin: 0px;
+     padding: 0px;
+     border-width: 50px;
+}
+.service{
+    position: center;
+    font-size: 30px;
+
+ 
+}
+h3{
+    font-size: 40px;
+}
+h4{
+    font-size: 30px;
+    font-family:sans-serif;
+}
+body{
+    background-color: black;
+    color:white;
+
+}
+.client{
+    margin-top: 120px;
+    font-size: 30px;
+
+}
+p{
+    font-size: 20px;
+    
+    
+}
+ol{
+    font-size: 20px;
+}
+#v{
+    font-variant: small-caps;
+    padding-top: 1ch;
+}
+.let{
+    font-size: 30px;
+    padding-top: 100px;
+    margin-bottom: 20px;
+}
+h5{
+font-size: 20px;
+}
+.work{
+    margin-top: 30px;
+    margin-right: 30px;
+}
